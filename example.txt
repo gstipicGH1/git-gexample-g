@@ -1,4 +1,4 @@
 prvi red
 drugi red
 treći redgit status
-txt
+txtS
