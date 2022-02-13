@@ -1,8 +1,4 @@
 prvi red
 drugi red
-<<<<<<< HEAD
-treći red
-=======
 treći redgit status
 txtS
->>>>>>> gordana
